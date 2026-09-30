@@ -1,7 +1,7 @@
 # PCRF — Port Cyber Resilience Framework
 
 **Operational Resilience Engineering Framework for Port Facilities**
-v1.0 · 1.ª edición, 2026 · Autor: Jorge Priano
+v1.0 · 1.ª edición especial, 2026 · Autor: Jorge Priano · **ISBN 978-631-01-8595-8**
 
 Marco metodológico para la resiliencia operacional ciber-física de instalaciones portuarias: funciones portuarias críticas, dependencias, traspaso ciber-físico entre IT/OT y protección, modos degradados, contención, retorno a la normalidad y evaluación basada en evidencia (definido · implementado · probado).
 
@@ -13,19 +13,19 @@ Marco metodológico para la resiliencia operacional ciber-física de instalacion
 
 ## Descargar el libro
 
-**[⬇ Descargar PCRF v1.0 (PDF, 257 páginas, 1,6 MB)](https://github.com/jpriano/port-cyber-resilience-framework/releases/latest/download/PCRF-v1.0.pdf)**
+**[⬇ Descargar PCRF v1.0 (PDF, 257 páginas, 1,8 MB)](https://github.com/jpriano/port-cyber-resilience-framework/releases/latest/download/PCRF-v1.0.pdf)**
 
-También disponible en la página de la [versión v1.0](https://github.com/jpriano/port-cyber-resilience-framework/releases/tag/v1.0) y como [archivo en este repositorio](PCRF-v1.0.pdf).
+También disponible en la página de la [versión v1.0 con ISBN](https://github.com/jpriano/port-cyber-resilience-framework/releases/tag/v1.0-isbn) y como [archivo en este repositorio](PCRF-v1.0.pdf).
 
 Verificación de integridad (SHA-256):
 
 ```
-a349eacf27eb023088947f43632ec4a090e1b01677fdad69e2dfed8f1b4797f1  PCRF-v1.0.pdf
+3a4d31f7805a74a30b2d37e01e3d2daa79230d69dc2aaa04ba13ddc720fa5b99  PCRF-v1.0.pdf
 ```
 
 ## Cómo citar
 
-> Priano, J. (2026). *PCRF — Port Cyber Resilience Framework: Operational Resilience Engineering Framework for Port Facilities* (1.ª ed.). ISBN pendiente de asignación.
+> Priano, J. (2026). *PCRF — Port Cyber Resilience Framework: Operational Resilience Engineering Framework for Port Facilities* (1.ª ed. especial). ISBN 978-631-01-8595-8.
 
 ## Licencia
 

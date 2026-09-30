@@ -1,6 +1,6 @@
 # Licencia
 
-**PCRF — Port Cyber Resilience Framework** — v1.0 · 1.ª edición, 2026
+**PCRF — Port Cyber Resilience Framework** — v1.0 · 1.ª edición especial, 2026 · ISBN 978-631-01-8595-8
 © 2026 Jorge Priano. Reservados los derechos morales de autoría.
 
 Texto de la página legal del libro (reproducido sin cambios):
